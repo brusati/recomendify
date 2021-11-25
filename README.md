@@ -1,5 +1,5 @@
 # recomendify
-# comands:
+# commands:
 - **camino *origin* >>>> *destiny*:** prints the minimum path between *origin* song and *destiny* song
 - **mas_importantes *n*:** prints the *n* most important songs using *pagerank*
 - **recomendacion canciones *n* *song1* >>>> *song2* >>>> *song3* ...:**: recommends *n* songs based on given songs
